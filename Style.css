@@ -1,0 +1,36 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    color: red;
+    border-radius: 20px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: white;
+}
+
+.play_button
+{
+    border: 5px solid white;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    border:5px dotted white;
+    border-radius: 20px; 
+}
+
+#song
+{
+    float: left;
+}
